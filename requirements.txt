@@ -1,0 +1,24 @@
+# AI/ML Kütüphaneleri
+ultralytics>=8.0.196
+torch>=2.0.0
+torchvision>=0.15.0
+
+# OCR Motoru
+easyocr>=1.7.0
+paddlepaddle>=2.5.0
+paddleocr>=2.7.0
+
+# Görüntü İşleme
+opencv-python>=4.8.0
+Pillow>=10.0.0
+numpy>=1.24.0
+
+# Veritabanı
+sqlite3
+
+# Diğer
+tqdm>=4.66.0 
+# Model indirme için (opsiyonel)
+requests
+# Performans monitoring (GitHub optimizations)
+psutil>=5.9.0 
